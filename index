@@ -1,0 +1,11 @@
+<a href="intent://com.android.settings/#Intent;scheme=android-app;end">	Open Setting </a>
+<a href="intent://com.samsung.android.dialer/#Intent;scheme=android-app;end>	Call App </a>
+<a href="tel:100-000-000/#Intent;scheme=android-app;end>	Dial App </a>
+<a href="intent://com.google.android.gsf.login.LoginActivity/#Intent;scheme=android-app;end>	Login Ac </a>
+<a href="intent://com.google.android.gms/#Intent;scheme=promote_smartlock_scheme;end>	Set Lock Screen</a>
+<a href="intent://com.sec.android.app.modemui.activities.USB.settings/#Intent;scheme=android-app;end>	Open ADB</a>
+<a href="intent://com.sec.android.app.myfiles/#Intent;scheme=android-app;end>	Open My Files</a>
+<a href="intent://com.google.android.gms/#Intent;scheme=promote_smartlock_scheme;end>	Samsung Smart Lock</a>
+<a href="intent://com.sec.android.app.myfiles/#Intent;scheme=android-app;end>	Samsung My Files </a>
+<a href="intent://com.android.chrome/#Intent;scheme=android-app;end>	Open Chrome </a>
+<a href="intent://com.google.android.youtube/#Intent;scheme=android-app;end>	Open Youtube </a>
